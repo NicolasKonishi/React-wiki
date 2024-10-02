@@ -2,7 +2,7 @@
 
 Este é um projeto React que permite aos usuários buscar repositórios no GitHub usando a API do GitHub. Os repositórios encontrados são exibidos de forma interativa, permitindo que os usuários explorem detalhes sobre cada um deles.
 
-![Screenshot do Projeto](react-wiki/src/assets/print.jpg) <!-- Substitua pelo caminho correto da sua imagem -->
+![Screenshot do Projeto](react-wiki/src/assets/print.jpg) 
 
 ## Funcionalidades
 

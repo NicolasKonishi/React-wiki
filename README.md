@@ -15,3 +15,8 @@ Este é um projeto React que permite aos usuários buscar repositórios no GitHu
 - GitHub API
 - CSS
 
+### Dicas para Personalizar:
+- Você pode adicionar seções sobre como executar testes, informações sobre a licença e quem são os colaboradores do projeto.
+- Inclua screenshots ou gifs do aplicativo em ação para tornar o README mais atraente.
+
+Se precisar de mais alguma coisa ou ajustes, é só avisar!
